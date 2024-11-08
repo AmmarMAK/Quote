@@ -1,0 +1,26 @@
+button{
+    background-color: blue;
+    width: 250px;
+    height: 80px;
+    color: white;
+    transition: .5s;
+    font-size: 30px;
+}
+button:hover{
+background-color: green;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color:wheat
+}
+
+p{
+    font-size: 35px;
+}
+
+#output-box{
+    display: none;
+}
